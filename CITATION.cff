@@ -3,8 +3,7 @@
 
 cff-version: 1.2.0
 title: >-
-  Analysis of the State of Empirical Research in
-  Requirements Engineering
+  Analysis of the ORKG regarding Curation, Quality, and Community Aspects
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -17,11 +16,13 @@ authors:
       TIB - Leibniz Information Centre for Science
       and Technology
     orcid: 'https://orcid.org/0000-0001-5336-6899'
-repository-code: 'https://github.com/okarras/EmpiRE-Analysis'
+repository-code: 'https://github.com/okarras/orkg_curation_analysis'
 keywords:
   - Python
   - Jupyter notebook
   - Analysis
-  - Empirical research
-  - Requirements engineering
+  - ORKG
+  - Curation
+  - Quality
+  - Community
 license: MIT
